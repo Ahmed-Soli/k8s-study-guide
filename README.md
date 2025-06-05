@@ -13,6 +13,7 @@ Each section is organized in its own folder and includes its own `README.md` and
 | Section | Description |
 |--------|-------------|
 | [`learning-k8s-rbac`](./learning-k8s-rbac/README.md) | Learn how to configure Role-Based Access Control (RBAC), user authentication using TLS certificates, and test Kubernetes access permissions. |
+| [`installing-kubeadm-on-centos`](./installing-kubeadm-on-centos/README.md) | Learn how to install docker runtime, kubeadm, kubectl, kubelet, initalise a cluster, setup Calico CNI. |
 
 > More sections will be added soon, covering topics like workload management, networking, Helm, monitoring, and more.
 
